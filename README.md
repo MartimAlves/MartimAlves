@@ -14,9 +14,8 @@ Estudante do curso Técnico de Gestão e Programação de Sistemas Informáticos
 
 ## 📊 Linguagens Mais Usadas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimAlves&layout=compact&langs_count=6&theme=tokyonight" alt="MartimAlves Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimAlves&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffffff&bg_color=282a36&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
+</div>
 
 ---
 
