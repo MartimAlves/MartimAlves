@@ -12,13 +12,6 @@ Estudante do curso Técnico de Gestão e Programação de Sistemas Informáticos
 
 ---
 
-## 📊 Linguagens Mais Usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimAlves&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffffff&bg_color=282a36&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ## 🛠️ Competências Técnicas
 
 <p align="center">
@@ -26,8 +19,6 @@ Estudante do curso Técnico de Gestão e Programação de Sistemas Informáticos
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
