@@ -1,63 +1,68 @@
 <h1 align="center">Martim Alves | Programação & Desenvolvimento Web</h1>
 
----
-
-## 📌 Sobre Mim
-
-Sou estudante do curso Técnico de Gestão e Programação de Sistemas Informáticos com interesse crescente no desenvolvimento web. Tenho facilidade em aprender novas ferramentas e gosto de transformar ideias em soluções práticas. Ainda estou a começar, mas com motivação para crescer na área da programação.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
 ---
 
-## 💻 Linguagens mais usadas
+## Sobre Mim
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+Estudante do curso Técnico de Gestão e Programação de Sistemas Informáticos com interesse crescente em desenvolvimento web e tecnologias modernas como Supabase. Tenho como objetivo evoluir continuamente e transformar ideias em soluções práticas e criativas.
+
+---
+
+## 📊 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartimAlves&layout=compact&langs_count=6&theme=tokyonight" alt="MartimAlves Top Languages"/>
 </p>
 
 ---
 
-## 🧠 Competências Técnicas
+## 🛠️ Competências Técnicas
 
-- Supabase
-- Git & GitHub
-- Visual Studio Code
-- SQL (básico)
-- Figma (básico)
-- Desenvolvimento Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
 
 ---
 
 ## 🎓 Formação Académica
 
-📍 Técnico de Gestão e Programação de Sistemas Informáticos *(em curso)*  
-🎯 Interesse em desenvolvimento web, com vontade futura de explorar áreas como design UI/UX e backend.
+- Técnico de Gestão e Programação de Sistemas Informáticos *(em curso)*
+- Interesse em desenvolvimento web e backend, com curiosidade por novas ferramentas e metodologias de desenvolvimento moderno.
 
 ---
 
 ## 🚀 Projeto em Destaque
 
 ### [EduTrek](https://github.com/MartimAlves/EduTrek)
-Um site desenvolvido para facilitar a organização de visitas escolares — permitindo que escolas, professores e alunos gerenciem eventos educativos de forma moderna e centralizada.
+> Um site para gestão e organização de visitas escolares, conectando escolas, professores e destinos educativos de forma simples e eficiente.
 
 ---
 
 ## 📚 Áreas de Interesse
 
-- Desenvolvimento Web
-- Integração de APIs
-- Projetos Educacionais
-- Ferramentas no-code/low-code
-- Supabase & Backend-as-a-Service
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Soluções%20Educacionais-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend--as--a--Service-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🌐 Onde me encontrar
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/martim-c-s-alves/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MartimAlves-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-MartimAlves-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -66,5 +71,5 @@ Um site desenvolvido para facilitar a organização de visitas escolares — per
 <p align="center"><i>"Aprender é uma jornada — e estou só no começo."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartimAlves&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MartimAlves&style=flat-square&color=blue" alt="Visualizações de perfil"/>
 </p>
